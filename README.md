@@ -1,6 +1,6 @@
 # fang-bao-hong 域名防红机器人
 
-🚨 防爆红超强域名防红机器人 - @FangBaoHongBot
+🚨 防爆红超强域名防红机器人 - [@FangBaoHongBot](https://t.me/FangBaoHongBot)
 守护你的流量入口，从“红”开始拦！
 你的域名、链接频频被拦？还在为爆红流量烦恼？
 让“防红霸”来解决！
@@ -8,7 +8,7 @@
 🛡 项目介绍
 防红霸 是一款在Telegram 的智能防红机器人，致力于为用户提供 高效、精准、安全的防红防拦截服务。通过智能识别、动态防护和高性能架构，解决传统防红方案性能不足、反应迟钝等各种问题。
 
-🚀 本项目通过主机器人 @FangBaoHongBot 实时订阅使用，支持多个域名接入、授权绑定，便于用户管理自己的入口流量。
+🚀 本项目通过主机器人 [@FangBaoHongBot](https://t.me/FangBaoHongBot) 实时订阅使用，支持多个域名接入、授权绑定，便于用户管理自己的入口流量。
 
 🔧 核心功能
 
@@ -31,7 +31,7 @@
 👉 付U后自动激活，无需人工干预！
 
 📦 使用方法
-打开 Telegram，进入主机器人 👉 @FangBaoHongBot
+打开 Telegram，进入主机器人 👉 [@FangBaoHongBot](https://t.me/FangBaoHongBot)
 
 发送 /start 开始引导流程
 
